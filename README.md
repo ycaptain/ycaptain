@@ -19,7 +19,7 @@ This is the place where I open source stuff and break things :rofl:
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ycaptain) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ycaptainz) 
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 - [React-Three-Fiber](https://github.com/pmndrs/react-three-fiber): A React renderer for Three.js. Build your scene declaratively with re-usable, self-contained components that react to state, are readily interactive, and can participate in React's ecosystem.
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js): A powerful, beautiful, simple, and completely open-source web rendering engine.
 - [Modern.js](https://github.com/web-infra-dev/modern.js): Modern.js is an open source web engineering system from ByteDance, including 🦄 Modern.js Framework: A progressive React framework for web development, 🐧 Modern.js Module: A powerful solution for npm package development.
@@ -27,15 +27,15 @@ This is the place where I open source stuff and break things :rofl:
 ![](https://github-contributor-stats.vercel.app/api?username=ycaptain&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 
-### 📊 &nbsp;This week I spent my time on
+## 📊 &nbsp;This week I spent my time on
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ycaptain&layout=compact&hide_border=true&bg_color=00000000&text_color=777)
   
 
-### 🛠️ &nbsp;Languages and Tools
+## 🛠️ &nbsp;Languages and Tools
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 📈 &nbsp;Language / Framework stats
+## 📈 &nbsp;Language / Framework stats
 <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=ycaptain&padding=30'>
 </a>
