@@ -7,7 +7,7 @@
 
 This is the place where I open source stuff and break things :rofl:
 
-## 💫 About Me:
+## 💫 About Me
 - 🔭 &nbsp;I’m currently working on something cool :wink: as a CTO at [Gemo Inc](https://www.bytedance.com/en/)
 - 🌱 &nbsp;Former senior software engineer at [ByteDance Inc](https://www.bytedance.com/en/)
 - :school:&nbsp; A master of computer science student at [@NEU](http://neu.edu/)
@@ -16,7 +16,7 @@ This is the place where I open source stuff and break things :rofl:
 - 📫&nbsp; How to reach me cz.ycaptain@gmail.com
 - ⚡&nbsp; Fun fact: I :heart: :cat:s and talking
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ycaptain) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ycaptainz) 
 
 ### 🔝 Top Contributed Repo
