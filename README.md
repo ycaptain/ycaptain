@@ -5,9 +5,8 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-This is the place where I open source stuff and break things :rofl:
-
 ## 💫 About Me
+This is the place where I open source stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink: as a CTO at [Gemo Inc](https://www.bytedance.com/en/)
 - 🌱 &nbsp;Former senior software engineer at [ByteDance Inc](https://www.bytedance.com/en/)
 - :school:&nbsp; A master of computer science student at [@NEU](http://neu.edu/)
