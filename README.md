@@ -26,13 +26,13 @@ This is the place where I open source stuff and break things :rofl:
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js): A powerful, beautiful, simple, and completely open-source web rendering engine.
 - [Modern.js](https://github.com/web-infra-dev/modern.js): Modern.js is an open source web engineering system from ByteDance, including 🦄 Modern.js Framework: A progressive React framework for web development, 🐧 Modern.js Module: A powerful solution for npm package development.
 
-![](https://github-contributor-stats.vercel.app/api?username=ycaptain&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=ycaptain&limit=5&theme=dracula&combine_all_yearly_contributions=true" /></p>
 
 ## 📕 &nbsp;Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Game Start](https://me.ycaptain.com/posts/game-start)
 <!-- BLOG-POST-LIST:END -->
-## Tech Stack 💻
+## 💻 &nbsp;Tech Stack 
 #### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
@@ -105,11 +105,6 @@ This is the place where I open source stuff and break things :rofl:
 <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=ycaptain&padding=30'>
 </a>
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## Thanks for Visiting my GitHub Profile!
 
 ---
 <p align="center">
