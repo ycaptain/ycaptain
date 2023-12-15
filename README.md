@@ -48,3 +48,10 @@ This is the place where I open source stuff and break things :rofl:
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://github.com/ycaptain/ycaptain/blob/output/github-contribution-grid-snake.svg">
+</p>
