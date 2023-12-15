@@ -20,7 +20,7 @@ This is the place where I open source stuff and break things :rofl:
 
 ## 📕 &nbsp;Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Game Start](https://me.ycaptain.com/posts/231209-game-start)
+- [Game Start](https://me.ycaptain.com/posts/game-start)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔝 Top Contributed Repo
