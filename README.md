@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋🏻, I'm ycaptain</h1>
 <h3 align="center">A passionate Full Stack Developer with 5+ years of experience</h3>
-<p align="center">
- <img src="https://visitcount.itsvg.in/api?id=ycaptain&icon=6&color=0" style="height: 28px">
+<div align="center">
  <a href="https://me.ycaptain.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/ycaptain" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/ycaptain" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/ycaptain" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="https://www.buymeacoffee.com/ycaptain" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a></p>
-<p align="center"><img alt="" src="https://quotes-github-readme.vercel.app/api?theme=merko" /></p>
+</div>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ycaptain&icon=6&color=0" style="height: 28px">
+ <a href="https://www.buymeacoffee.com/ycaptain" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+</p>
+<div align="center"><img alt="" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /></div>
 
 ## 💫 About Me
 This is the place where I open source stuff and break things :rofl:
