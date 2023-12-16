@@ -102,11 +102,6 @@ This is the place where I open source stuff and break things :rofl:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018c68b9-b505-4abe-8ffc-72d6206ebb80/fad7e4f9-97e9-41e0-ac55-8bd3bf76101d.png" /></a>
 
-## 📈 &nbsp;Language / Framework stats
-<a href='https://profile.codersrank.io/user/gautamkrishnar/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=ycaptain&padding=30'>
-</a>
-
 ---
 <p align="center">
 <img src="https://github.com/ycaptain/ycaptain/blob/output/github-contribution-grid-snake.svg">
