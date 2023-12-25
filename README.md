@@ -16,7 +16,7 @@
 This is the place where I open source stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink: as a CTO at [Gemo Inc](https://www.bytedance.com/en/)
 - 🌱 &nbsp;Former senior software engineer at [ByteDance Inc](https://www.bytedance.com/en/)
-- :school:&nbsp; A master of computer science student at [@NEU](http://neu.edu/)
+- :school:&nbsp; MSCS [@NEU](http://neu.edu/)
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or React/Modern.js/Nest.js
 - 👨‍💻 &nbsp;Read more about my posts at [ycaptain.com](https://me.ycaptain.com/)
 - 📫&nbsp; How to reach me [@Gmail](mailto:cz.ycaptain@gmail.com)
