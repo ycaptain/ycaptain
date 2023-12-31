@@ -7,8 +7,8 @@
 <a href="https://instagram.com/ycaptain" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 </div>
 <p align="center">
+ <img src="https://visitcount.itsvg.in/api?id=ycaptain&icon=6&color=0" style="height: 28px">
  <a href="https://www.buymeacoffee.com/ycaptain" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-  <img src="https://visitcount.itsvg.in/api?id=ycaptain&icon=6&color=0" style="height: 28px">
 </p>
 <div align="center"><img alt="" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /></div>
 
