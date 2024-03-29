@@ -97,10 +97,6 @@ This is the place where I open source stuff and break things :rofl:
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-## 📊 &nbsp;Recently I spent my time on
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018c68b9-b505-4abe-8ffc-72d6206ebb80/fad7e4f9-97e9-41e0-ac55-8bd3bf76101d.png" /></a>
-
 ---
 <p align="center">
 <img src="https://github.com/ycaptain/ycaptain/blob/output/github-contribution-grid-snake.svg">
