@@ -3,7 +3,6 @@
 <div align="center">
  <a href="https://me.ycaptain.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
  <a href="https://twitter.com/ycaptain" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
- <a href="https://linkedin.com/in/ycaptain" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
  <a href="https://instagram.com/ycaptain" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
 </div>
 <p align="center">
@@ -14,9 +13,6 @@
 
 ## 💫 About Me
 This is the place where I open source stuff and break things :rofl:
-- 🔭 &nbsp;I’m currently working on something cool :wink: as a CTO at [Gemo Inc](https://www.bytedance.com/en/)
-- 🌱 &nbsp;Former senior software engineer at [ByteDance Inc](https://www.bytedance.com/en/)
-- :school:&nbsp; MS CS at [@NEU](http://neu.edu/)
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or React/Modern.js/Nest.js
 - 👨‍💻 &nbsp;Read more about my posts at [ycaptain.com](https://me.ycaptain.com/)
 - 📫&nbsp; How to reach me [@Gmail](mailto:cz.ycaptain@gmail.com)
