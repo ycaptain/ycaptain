@@ -25,10 +25,6 @@ This is the place where I open source stuff and break things :rofl:
 
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=ycaptain&limit=5&theme=dracula&combine_all_yearly_contributions=true" /></p>
 
-## 📕 &nbsp;Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Game Start](https://me.ycaptain.com/posts/game-start)
-<!-- BLOG-POST-LIST:END -->
 ## 💻 &nbsp;Tech Stack 
 #### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
