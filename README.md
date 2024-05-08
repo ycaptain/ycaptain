@@ -63,7 +63,7 @@ This is the place where I open source stuff and break things :rofl:
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
-![NestJS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=nestjs)
+![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 
 #### Web Hosting
