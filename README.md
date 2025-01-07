@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm ycaptain</h1>
-<h3 align="center">A passionate Full Stack Developer with 5+ years of experience</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <div align="center">
  <a href="https://me.ycaptain.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
  <a href="[https://twitter.com/ycaptain](https://x.com/YCaptainZ)" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
