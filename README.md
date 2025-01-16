@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 This is the place where I open source stuff and break things :rofl:
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or React/Modern.js/Nest.js
+- 💬 &nbsp;Ask me about anything related to fullstack, AI, or product stuff.
 - 📫&nbsp; How to reach me [@Gmail](mailto:cz.ycaptain@gmail.com)
 - ⚡&nbsp; Fun fact: I :heart: :cat:s and talking
 
