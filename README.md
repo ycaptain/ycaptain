@@ -41,14 +41,14 @@ This is the place where I open source stuff and break things :rofl:
 ![Threejs](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)
 ![Vue](https://img.shields.io/badge/-vue-000?style=for-the-badge&logo=vue)
 
-## AI Framework/Library
+#### AI Framework/Library
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=TensorFlow)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-000?style=for-the-badge&logo=HuggingFace)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?style=for-the-badge&logo=OpenAI)
 ![YOLO](https://img.shields.io/badge/-YOLO-000?style=for-the-badge&logo=YOLO)
 
-## Common AI Models
+#### Common AI Models
 ![ResNet](https://img.shields.io/badge/-OpenAI-000?style=for-the-badge&logo=OpenAI)
 ![YOLO](https://img.shields.io/badge/-YOLO-000?style=for-the-badge&logo=YOLO)
 ![BERT](https://img.shields.io/badge/-BERT-000?style=for-the-badge&logo=BERT)
