@@ -13,7 +13,6 @@
 ## 💫 About Me
 This is the place where I open source stuff and break things :rofl:
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or React/Modern.js/Nest.js
-- 👨‍💻 &nbsp;Read more about my posts at [ycaptain.com](https://me.ycaptain.com/)
 - 📫&nbsp; How to reach me [@Gmail](mailto:cz.ycaptain@gmail.com)
 - ⚡&nbsp; Fun fact: I :heart: :cat:s and talking
 
@@ -42,10 +41,22 @@ This is the place where I open source stuff and break things :rofl:
 ![Threejs](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)
 ![Vue](https://img.shields.io/badge/-vue-000?style=for-the-badge&logo=vue)
 
+## AI Framework/Library
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=TensorFlow)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-000?style=for-the-badge&logo=HuggingFace)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?style=for-the-badge&logo=OpenAI)
+![YOLO](https://img.shields.io/badge/-YOLO-000?style=for-the-badge&logo=YOLO)
+
+## Common AI Models
+![ResNet](https://img.shields.io/badge/-OpenAI-000?style=for-the-badge&logo=OpenAI)
+![YOLO](https://img.shields.io/badge/-YOLO-000?style=for-the-badge&logo=YOLO)
+![BERT](https://img.shields.io/badge/-BERT-000?style=for-the-badge&logo=BERT)
+
+
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-000?style=for-the-badge&logo=postcss)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 
@@ -55,14 +66,18 @@ This is the place where I open source stuff and break things :rofl:
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
-#### Database/State
+#### Database
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=Supabase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=SpringBoot)
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=Django)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 
 #### Web Hosting
