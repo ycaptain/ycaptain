@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋🏻, I'm ycaptain</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<div align="center">
+<!-- <div align="center">
  <a href="https://me.ycaptain.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
  <a href="https://x.com/YCaptainZ" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 </div>
 <p align="center">
  <img src="https://visitcount.itsvg.in/api?id=ycaptain&icon=6&color=0" style="height: 28px">
  <a href="https://www.buymeacoffee.com/ycaptain" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-</p>
+</p> -->
 <div align="center"><img alt="" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /></div>
 
 ## 💫 About Me
